@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cost_of_service">Cena usługi</string>
+    <string name="how_was_the_service">Jaka była jakość obsługi?</string>
+    <string name="amazing_service">Genialna (20%)</string>
+    <string name="good_service">Dobra (15%)</string>
+    <string name="ok_service">OK (10%)</string>
+    <string name="round_up_tip">Zaokrąglić napiwek?</string>
+    <string name="calculate">Oblicz</string>
+    <string name="tip_amount">Wartość napiwku: %s</string>
+</resources>
