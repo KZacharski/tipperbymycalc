@@ -4,7 +4,7 @@ plugins {
 }
 
 android {
-    compileSdkVersion 31
+    compileSdkVersion 32
     buildToolsVersion "30.0.3"
     dataBinding {
         enabled = true
@@ -16,8 +16,8 @@ android {
 
     defaultConfig {
         applicationId "pl.kacperzacharski.puffercat.tipper.dev"
-        minSdkVersion 27
-        targetSdkVersion 31
+        minSdkVersion 19
+        targetSdkVersion 32
         versionCode 1
         versionName "1.0"
 
